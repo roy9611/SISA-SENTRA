@@ -1,4 +1,4 @@
-# KYNETIC SENTRA v1.0.0 — Platinum Edition
+# KYNETIC SENTRA v1.0.0 
 **AI Secure Data Intelligence Platform**
 
 🔴 **Live Demo:** [https://sisa-project.vercel.app/](https://sisa-project.vercel.app/)
