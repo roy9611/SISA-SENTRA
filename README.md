@@ -1,7 +1,7 @@
 # KYNETIC SENTRA v1.0.0 
 **AI Secure Data Intelligence Platform**
 
-🔴 **Live Demo:** [https://sisa-project.vercel.app/](https://sisa-project.vercel.app/)
+🔴 **Live Demo:** [https://sisa-project.vercel.app/](https://sisa-sentra.vercel.app/)
 
 Welcome to **Kynetic Sentra** — an advanced Forensic-First Security Operations Center (SOC) designed to act as a centralized **AI Gateway, Data Scanner, Log Analyzer, and Risk Engine**. 
 
